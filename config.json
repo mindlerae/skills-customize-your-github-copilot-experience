@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-web-page",
+      "title": "Interactive Web Page",
+      "description": "Build an interactive web page with HTML, CSS, JavaScript, DOM events, and theme switching.",
+      "path": "assignments/interactive-web-page",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "HTML Starter",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "CSS Starter",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "script.js",
+          "type": "js"
+        }
+      ]
     }
   ]
 }
