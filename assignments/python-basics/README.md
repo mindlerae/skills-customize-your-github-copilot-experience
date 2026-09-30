@@ -32,9 +32,11 @@ Completed program should:
 - Ask the user to enter two numbers.
 - Add the numbers together.
 - Print the result. Example:
+  ```text
   Enter the first number: 3
   Enter the second number: 7
   10
+  ```
 
 ### 🛠️ Conditional Statements
 
